@@ -1,0 +1,92 @@
+# Git
+/.git
+/.github
+.gitattributes
+.gitignore
+.gitmodules
+
+# Logs
+/logs
+*.log
+
+# Development
+/backup
+/backups
+/bak
+/baks
+/dump
+/dumps
+/temp
+/tmp
+*.bak.*
+*.old.*
+*.tmp*
+
+# Production
+/build
+/dist
+/out
+*.apk
+*.app
+*.dll
+*.exe
+*.ipa
+
+# Certificates
+*.crt
+*.key
+*.p12
+*.pem
+
+# NodeJS
+/node_modules
+
+# ASDF
+.tool-versions
+
+# NPM
+.npmignore
+.npmrc
+package-lock.json
+
+# Typescript
+# tsconfig.*
+*.tsbuildinfo
+
+# NextJS
+/.next
+# next-env.d.ts
+# next.config.*
+
+# Vercel
+# /.vercel
+
+# Editor Config
+# .editorconfig
+
+# ESLint
+# .eslintrc
+# .eslintrc.*
+# .eslintignore
+
+# Prettier
+# .prettierrc
+# .prettierrc.*
+# .prettierignore
+
+# IDE
+/.history
+# /.idea
+# /.vscode
+
+# Environment
+# .env*
+# .env*.local
+
+# macOS
+.DS_Store
+
+# Windows
+/%ProgramData%
+Thumbs.db
+Desktop.ini

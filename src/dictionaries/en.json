@@ -1,0 +1,170 @@
+{
+	"menu": {
+		"home": {
+			"title": "Home"
+		},
+		"about": {
+			"title": "About"
+		},
+		"products": {
+			"title": "Products"
+		},
+		"services": {
+			"title": "Services"
+		},
+		"contact": {
+			"title": "Contact"
+		}
+	},
+	"about": {
+		"title": "The TORK GROUP is a provider of complete solutions in tightening technology with torque wrenches and hydraulic equipment.",
+		"description": [
+			"Visando superar as expectativas de seus clientes, possui uma plataforma integrada formada por sistemas de gestão, equipamentos precisos, treinamentos e serviços aplicados às mais diversas necessidades do mercado.",
+			"Com base estrategicamente posicionada, localizada na cidade de Rio das Pedras-SP, possui estrutura que correlaciona Dinamismo e Qualidade, propiciando atender os mais diversos segmentos, tais como: Petroquímico, Cimenteiro, Químico, Naval e Sucroalcooleiro.",
+			"Para sustentar o crescimento e permitir alcançar novas metas, o GRUPO TORK é composto pelas empresas TORK EXPRESS e SOMOS TORK."
+		]
+	},
+	"companies": {
+		"title": "Empresas",
+		"torkExpress": {
+			"title": "Grupo Tork Company",
+			"alt": "Tork Express"
+		},
+		"somosTork": {
+			"title": "Grupo Tork Company",
+			"alt": "Somos Tork"
+		},
+		"rioGardenMall": {
+			"title": "Grupo Tork Company",
+			"alt": "Rio Garden Mall"
+		},
+		"spxFlow": {
+			"title": "Distribuition",
+			"alt": "SPX Flow"
+		},
+		"powerTeam": {
+			"title": "Distribuition",
+			"alt": "Power Team"
+		}
+	},
+	"services": {
+		"title": "Services",
+		"service1": {
+			"title": "Torque"
+		},
+		"service2": {
+			"title": "Rental"
+		},
+		"service3": {
+			"title": "Maintenance"
+		},
+		"service4": {
+			"title": "Training"
+		},
+		"service5": {
+			"title": "Machining"
+		},
+		"service6": {
+			"title": "Design and manufacture of special equipment"
+		},
+		"service7": {
+			"title": "Calibration"
+		}
+	},
+	"contact": {
+		"title": "Contact",
+		"workWithUs": {
+			"title": "Work with us",
+			"description": "Join our team! Register your curriculum for future vacancies and have the opportunity to work in one of the most solid companies in the field of torque and fastening tools in Brazil.",
+			"button": {
+				"title": "Subscribe"
+			}
+		},
+		"newsletter": {
+			"title": "Stay tuned",
+			"description": "Subscribe and receive news about our services, products and events!",
+			"button": {
+				"title": "Subscribe"
+			}
+		}
+	},
+	"info": {
+		"address": {
+			"title": "Address",
+			"options": [
+				{
+					"text": "Av. Um, 70 - Loteamento Industrial Palmeiras, Rio das Pedras - SP CEP: 13.397-230 - Caixa Postal: 111",
+					"link": "https://goo.gl/maps/y7KR2uProJUN3wEKA"
+				}
+			]
+		},
+		"email": {
+			"title": "Email",
+			"options": [
+				{
+					"text": "comercial@torkexpress.com.br",
+					"link": "mailto:comercial@torkexpress.com.br"
+				}
+			]
+		},
+		"emergency": {
+			"title": "Emergency",
+			"options": [
+				{
+					"text": "(19) 98108-1010",
+					"link": "tel:+5519981081010"
+				}
+			]
+		},
+		"cellPhone": {
+			"title": "Cell Phone",
+			"options": [
+				{
+					"text": "(19) 99884-7414",
+					"link": "tel:+5519998847414"
+				},
+				{
+					"text": "(19) 98108-1010",
+					"link": "tel:+5519981081010"
+				}
+			]
+		},
+		"chat": {
+			"title": "WhatsApp",
+			"options": [
+				{
+					"text": "(19) 99884-7414",
+					"link": "https://wa.me/5519998847414"
+				},
+				{
+					"text": "(19) 98108-1010",
+					"link": "https://wa.me/5519981081010"
+				}
+			]
+		},
+		"phone": {
+			"title": "Phone",
+			"options": [
+				{
+					"text": "(19)  3475-2001",
+					"link": "tel:+551934752001"
+				},
+				{
+					"text": "(19)  4102-0502",
+					"link": "tel:+551941020502"
+				}
+			]
+		}
+	},
+	"footer": {
+		"copyrigth": {
+			"title": "Copyrigth 2024"
+		},
+		"powered": {
+			"title": "Powered by"
+		},
+		"author": {
+			"title": "geison.dev"
+		}
+	}
+}
