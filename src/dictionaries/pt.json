@@ -1,0 +1,170 @@
+{
+	"menu": {
+		"home": {
+			"title": "Início"
+		},
+		"about": {
+			"title": "Sobre"
+		},
+		"products": {
+			"title": "Produtos"
+		},
+		"services": {
+			"title": "Serviços"
+		},
+		"contact": {
+			"title": "Contato"
+		}
+	},
+	"about": {
+		"title": "O GRUPO TORK é provedor de soluções completas em tecnologia de aperto com chaves de torque e equipamentos hidráulicos.",
+		"description": [
+			"Visando superar as expectativas de seus clientes, possui uma plataforma integrada formada por sistemas de gestão, equipamentos precisos, treinamentos e serviços aplicados às mais diversas necessidades do mercado.",
+			"Com base estrategicamente posicionada, localizada na cidade de Rio das Pedras-SP, possui estrutura que correlaciona Dinamismo e Qualidade, propiciando atender os mais diversos segmentos, tais como: Petroquímico, Cimenteiro, Químico, Naval e Sucroalcooleiro.",
+			"Para sustentar o crescimento e permitir alcançar novas metas, o GRUPO TORK é composto pelas empresas TORK EXPRESS e SOMOS TORK."
+		]
+	},
+	"companies": {
+		"title": "Empresas",
+		"torkExpress": {
+			"title": "Empresa Grupo Tork",
+			"alt": "Tork Express"
+		},
+		"somosTork": {
+			"title": "Empresa Grupo Tork",
+			"alt": "Somos Tork"
+		},
+		"rioGardenMall": {
+			"title": "Empresa Grupo Tork",
+			"alt": "Rio Garden Mall"
+		},
+		"spxFlow": {
+			"title": "Distribuição",
+			"alt": "SPX Flow"
+		},
+		"powerTeam": {
+			"title": "Distribuição",
+			"alt": "Power Team"
+		}
+	},
+	"services": {
+		"title": "Serviços",
+		"service1": {
+			"title": "Torqueamento"
+		},
+		"service2": {
+			"title": "Locação"
+		},
+		"service3": {
+			"title": "Manutenção"
+		},
+		"service4": {
+			"title": "Treinamento"
+		},
+		"service5": {
+			"title": "Usinagem"
+		},
+		"service6": {
+			"title": "Projetos e fabricação de equipamentos especiais"
+		},
+		"service7": {
+			"title": "Calibração"
+		}
+	},
+	"contact": {
+		"title": "Contato",
+		"workWithUs": {
+			"title": "Trabalhe conosco",
+			"description": "Junte-se à nossa equipe! Cadastre seu curriculum para vagas futuras e tenha a oportunidade de trabalhar numa das mais sólidas empresas no ramo de torqueamento e ferramentas de fixação do Brasil.",
+			"button": {
+				"title": "Inscreva-se"
+			}
+		},
+		"newsletter": {
+			"title": "Fique por dentro",
+			"description": "Cadastre-se e receba novidades sobre os nossos serviços, produtos e eventos!",
+			"button": {
+				"title": "Inscreva-se"
+			}
+		}
+	},
+	"info": {
+		"address": {
+			"title": "Endereço",
+			"options": [
+				{
+					"text": "Av. Um, 70 - Loteamento Industrial Palmeiras, Rio das Pedras - SP CEP: 13.397-230 - Caixa Postal: 111",
+					"link": "https://goo.gl/maps/y7KR2uProJUN3wEKA"
+				}
+			]
+		},
+		"email": {
+			"title": "E-mail",
+			"options": [
+				{
+					"text": "comercial@torkexpress.com.br",
+					"link": "mailto:comercial@torkexpress.com.br"
+				}
+			]
+		},
+		"emergency": {
+			"title": "Plantão 24h",
+			"options": [
+				{
+					"text": "(19) 98108-1010",
+					"link": "tel:+5519981081010"
+				}
+			]
+		},
+		"cellPhone": {
+			"title": "Celular",
+			"options": [
+				{
+					"text": "(19) 99884-7414",
+					"link": "tel:+5519998847414"
+				},
+				{
+					"text": "(19) 98108-1010",
+					"link": "tel:+5519981081010"
+				}
+			]
+		},
+		"chat": {
+			"title": "WhatsApp",
+			"options": [
+				{
+					"text": "(19) 99884-7414",
+					"link": "https://wa.me/5519998847414"
+				},
+				{
+					"text": "(19) 98108-1010",
+					"link": "https://wa.me/5519981081010"
+				}
+			]
+		},
+		"phone": {
+			"title": "Telefone",
+			"options": [
+				{
+					"text": "(19)  3475-2001",
+					"link": "tel:+551934752001"
+				},
+				{
+					"text": "(19)  4102-0502",
+					"link": "tel:+551941020502"
+				}
+			]
+		}
+	},
+	"footer": {
+		"copyrigth": {
+			"title": "Todos os direitos reservados 2024"
+		},
+		"powered": {
+			"title": "Desenvolvido por"
+		},
+		"author": {
+			"title": "geison.dev"
+		}
+	}
+}
